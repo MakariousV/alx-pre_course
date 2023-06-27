@@ -1,7 +1,11 @@
 #!/bin/bash
+<<<<<<< .merge_file_7XvBrg
 <<<<<<< .merge_file_2Js7V1
-echo "ALX School is so cool!"
+echo "ALX School"
 
 =======
-echo "ALX School is so cool!"
+echo "ALX School"
 >>>>>>> .merge_file_JzUgU4
+=======
+echo "ALX School"
+>>>>>>> .merge_file_1xafOk
