@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "School"
+<<<<<<< .merge_file_Rccvn3
+echo "The school is open!"
+=======
+echo "The school is open!"
+>>>>>>> .merge_file_yv3NZ5

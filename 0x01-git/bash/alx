@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< .merge_file_X5jBac
 <<<<<<< .merge_file_7XvBrg
 <<<<<<< .merge_file_2Js7V1
 echo "ALX School"
@@ -9,3 +10,6 @@ echo "ALX School"
 =======
 echo "ALX School"
 >>>>>>> .merge_file_1xafOk
+=======
+echo "ALX School"
+>>>>>>> .merge_file_Byhdkd
